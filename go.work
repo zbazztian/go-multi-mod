@@ -1,6 +1,6 @@
 go 1.19
 
 use (
-	./src/myapp
-	./src/mymod
+	./myapp
+	./mymod
 )
