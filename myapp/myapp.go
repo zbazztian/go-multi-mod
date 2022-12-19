@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-  fmt.Println(util.ToUpper("Hello"))
+  fmt.Println(util.ToUppero("Hello"))
 }

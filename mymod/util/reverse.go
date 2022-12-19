@@ -2,7 +2,7 @@ package util
 
 import "unicode"
 
-func ToUpper(s string) string {
+func ToUppero(s string) string {
   r := []rune(s)
   for i := range r {
     r[i] = unicode.ToUpper(r[i])
